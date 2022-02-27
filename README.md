@@ -8,6 +8,9 @@
     <a href="https://www.linkedin.com/in/torabi-ali/">
       <img alt="Ali's linkedin" src="https://img.shields.io/badge/-torabi--ali-0072b1?style=flat&logo=Linkedin&logoColor=white" />
     </a>
+    <a href="https://www.linkedin.com/in/torabi-ali/">
+      <img alt="Ali's mail" src="https://img.shields.io/badge/-alitorabi2020@gmail.com-ea4335?style=flat&logo=Gmail&logoColor=white" />
+    </a>
   </li>
 </ul>
 
