@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2 align="center">Hi there, I'm Ali Torabi</h2>
 
-<!--
-**torabi-ali/torabi-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li>🔭 I’m currently working as Senior Backend Developer.</li>
+  <li>👯 I’m looking to collaborate on all kind of stuff.</li>
+  <li>💬 Ask me about C#, SQL, maintaining projects and operating systems.</li>
+  <li>📫 How to reach me: 
+    <a href="https://www.linkedin.com/in/torabi-ali/">
+      <img alt="Ali's linkedin" src="https://img.shields.io/badge/-torabi--ali-0072b1?style=flat&logo=Linkedin&logoColor=white" />
+    </a>
+  </li>
+</ul>
 
-Here are some ideas to get you started:
+<hr />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=torabi-ali&show_icons=true&count_private=true&include_all_commits=true" />
+</p>
