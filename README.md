@@ -23,5 +23,5 @@
 <hr />
 
 <p align="center">
-  <img alt="Ali's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torabi-ali" />
+  <img alt="Ali's top languages " src="https://github-readme-stats.vercel.app/api/top-langs/?username=torabi-ali" />
 </p>
