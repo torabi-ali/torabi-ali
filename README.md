@@ -17,5 +17,11 @@
 <hr />
 
 <p align="center">
-  <img alt="Ali's stats" src="https://github-readme-stats.vercel.app/api?username=torabi-ali&show_icons=true&count_private=true&include_all_commits=true" />
+  <img alt="Ali's stats" src="https://github-readme-stats.vercel.app/api?username=torabi-ali" />
+</p>
+
+<hr />
+
+<p align="center">
+  <img alt="Ali's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torabi-ali" />
 </p>
